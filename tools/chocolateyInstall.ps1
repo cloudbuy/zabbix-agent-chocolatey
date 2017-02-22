@@ -1,4 +1,4 @@
-$version      = '2.4.4'
+$version      = '3.2.0'
 $id           = 'zabbix-agent'
 $title        = 'Zabbix Agent'
 $url          = "http://www.zabbix.com/downloads/$version/zabbix_agents_$version.win.zip"
